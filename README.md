@@ -28,11 +28,11 @@ This project is a front-end implementation of Google's search functionalities, c
 _**Downloading the Project**_
 You can download the project files manually or by using the following command:
 
-wget https://cdn.cs50.net/web/2020/spring/projects/0/search.zip
-
-unzip search.zip
-
-cd search
+    wget https://cdn.cs50.net/web/2020/spring/projects/0/search.zip
+    
+    unzip search.zip
+    
+    cd search
 
 _**Running the Project**_
 
