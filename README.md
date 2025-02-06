@@ -4,57 +4,56 @@
 
 This project is a front-end implementation of Google's search functionalities, created as part of Harvard CS50’s Web Programming with Python and JavaScript course. It includes separate pages for:
 
-Google Search
+- Google Search
 
-Google Image Search
+- Google Image Search
 
-Google Advanced Search
+- Google Advanced Search
 
 **Features**
 
-A search bar for Google Search with a clean, Google-like aesthetic.
+- A search bar for Google Search with a clean, Google-like aesthetic.
 
-An "I'm Feeling Lucky" button that takes users directly to the first search result.
+- An "I'm Feeling Lucky" button that takes users directly to the first search result.
 
-Image Search functionality that directs users to Google Images.
+- Image Search functionality that directs users to Google Images.
 
-Advanced Search page with multiple fields for refining search queries.
+- Advanced Search page with multiple fields for refining search queries.
 
-Navigation links to switch between search types.
+- Navigation links to switch between search types.
 
-Styled using CSS to resemble Google’s design.
+- Styled using CSS to resemble Google’s design.
 
 **Getting Started**
-**Downloading the Project**
-
+_**Downloading the Project**_
 You can download the project files manually or by using the following command:
 
 wget https://cdn.cs50.net/web/2020/spring/projects/0/search.zip
 unzip search.zip
 cd search
 
-**Running the Project**
+_**Running the Project**_
 
-1. Open index.html in your browser.
+1. Open _index.html_ in your browser.
 
 2. Use the navigation links at the top-right corner to switch between Search, Image Search, and Advanced Search.
 
 3. Enter queries and click the respective buttons to perform searches.
 
 **How It Works**
-**Google Search Page (index.html)**
+_**Google Search Page (index.html)**_
 A simple search form with an input field and a submit button.
 
 Clicking "Google Search" redirects to Google’s search results.
 
 Clicking "I'm Feeling Lucky" redirects directly to the first search result.
 
-**Google Image Search (image.html)**
+_**Google Image Search (image.html)**_
 A form designed to send search queries to Google Images.
 
 Styled similarly to the standard search page.
 
-**Google Advanced Search (advanced.html)**
+_**Google Advanced Search (advanced.html)**_
 A form with multiple input fields to refine search results:
 
 "All these words"
