@@ -29,7 +29,9 @@ _**Downloading the Project**_
 You can download the project files manually or by using the following command:
 
 wget https://cdn.cs50.net/web/2020/spring/projects/0/search.zip
+
 unzip search.zip
+
 cd search
 
 _**Running the Project**_
